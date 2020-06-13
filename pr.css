@@ -1,0 +1,23 @@
+body {
+  margin: auto;
+}
+
+
+#text-button {
+  display: block;
+  cursor: pointer;
+  width: 160px;
+  text-align: center;
+  border: 1px solid #232323;
+  background-color: blue;
+}
+
+#square-button {
+  width: 80px;
+  height: 80px;
+  background: #232323;
+}
+#square-button.blue {
+  background: #21759b;
+}
+
